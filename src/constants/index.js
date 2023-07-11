@@ -21,8 +21,12 @@ import {
   synapse,
   carrent,
   jobit,
-  tripguide,
+  healthi,
   threejs,
+  github,
+  behance,
+  summarizerAI,
+  gericht
 } from "../assets";
 
 export const navLinks = [
@@ -192,67 +196,64 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Summarizer.ai",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Simplify your reading with Summarize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "redux",
         color: "green-text-gradient",
       },
       {
         name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name: "OpenAI api",
+        color: "blue-text-gradient",
+      },
     ],
-    image: carrent,
+    image: summarizerAI,
+    source_icon: github,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Gericht",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web app showcasing a fine dining restaurant's essence. Explore the founder, accolades, and menu, bringing the exquisite dining experience to diners worldwide.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "pure CSS",
         color: "green-text-gradient",
       },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: gericht,
+    source_icon: github,
+    source_code_link:
+      "https://github.com/codebloodedd/Restaurant-Website/tree/master",
   },
   {
-    name: "Trip Guide",
+    name: "Healthi",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A mobile application specifically developed to aid individuals in tracking their physical activities, monitoring their progress, and achieving their fitness objectives.",
     tags: [
       {
-        name: "nextjs",
+        name: "Figma",
         color: "blue-text-gradient",
       },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: healthi,
+    source_icon: behance,
+    source_code_link:
+      "https://www.behance.net/gallery/173850617/Healthi-Presentation",
   },
 ];
 

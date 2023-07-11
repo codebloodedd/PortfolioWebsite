@@ -28,7 +28,10 @@ import synapse from "./company/synapse.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import summarizerAI from "./SummarizerAI.jpeg"
+import healthi from "./healthi.png";
+import behance from "./behance.png";
+import gericht from "./Gericht.jpg";
 
 export {
   logo,
@@ -58,5 +61,8 @@ export {
   synapse,
   carrent,
   jobit,
-  tripguide,
+  healthi,
+  behance,
+  summarizerAI,
+  gericht
 };
