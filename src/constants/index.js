@@ -19,8 +19,6 @@ import {
   antariksh,
   unicode,
   synapse,
-  carrent,
-  jobit,
   healthi,
   threejs,
   github,

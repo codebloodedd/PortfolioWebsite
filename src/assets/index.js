@@ -26,8 +26,6 @@ import antariksh from "./company/antariksh.png";
 import unicode from "./company/unicode.png";
 import synapse from "./company/synapse.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
 import summarizerAI from "./SummarizerAI.jpeg"
 import healthi from "./healthi.png";
 import behance from "./behance.png";
@@ -59,8 +57,6 @@ export {
   antariksh,
   unicode,
   synapse,
-  carrent,
-  jobit,
   healthi,
   behance,
   summarizerAI,
