@@ -217,7 +217,8 @@ const projects = [
     ],
     image: summarizerAI,
     source_icon: github,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://github.com/codebloodedd/Summarizer.ai/tree/master",
   },
   {
     name: "Gericht",
