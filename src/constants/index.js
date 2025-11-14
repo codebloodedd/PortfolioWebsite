@@ -253,7 +253,7 @@ const testimonials = [
     designation: "Founder & CEO",
     company: "Engibrains",
     image: "", // not used anymore
-    link: "https://your-link-here.com/engibrains-lor", // TODO: replace with real LOR URL
+    link: "https://drive.google.com/file/d/1iZ63_MyVcZDhcIVOV181lGTckcna3O8R/view?usp=sharingr", // TODO: replace with real LOR URL
   },
   {
     testimonial:
@@ -262,7 +262,7 @@ const testimonials = [
     designation: "Deputy CTO",
     company: "HUE-AI",
     image: "",
-    link: "https://your-link-here.com/hueai-lor",
+    link: "https://drive.google.com/file/d/1zK6yiHkGwuMS8cRUG68HLhTOMyMINmfw/view?usp=sharing",
   },
   {
     testimonial:
@@ -271,7 +271,7 @@ const testimonials = [
     designation: "Assistant Professor",
     company: "Dwarkadas J. Sanghvi College of Engineering",
     image: "",
-    link: "https://your-link-here.com/lynette-lor",
+    link: "https://drive.google.com/file/d/1fUfuIb8d1ysA90qM2nWr_59YRSlq6-qC/view?usp=sharing",
   },
   {
     testimonial:
@@ -280,7 +280,7 @@ const testimonials = [
     designation: "Assistant Professor",
     company: "Dwarkadas J. Sanghvi College of Engineering",
     image: "",
-    link: "https://your-link-here.com/sridhar-lor",
+    link: "https://drive.google.com/file/d/1-GhF5UXhmAyCe9dh60NtxY0-L7iCObYH/view?usp=sharing",
   },
   {
     testimonial:
@@ -289,7 +289,7 @@ const testimonials = [
     designation: "Associate Professor",
     company: "Dwarkadas J. Sanghvi College of Engineering",
     image: "",
-    link: "https://your-link-here.com/nilesh-lor",
+    link: "https://drive.google.com/file/d/1g3eUWKwvR07FBqkAH67efyYYR-aIf0sK/view?usp=sharing",
   },
 ];
 
