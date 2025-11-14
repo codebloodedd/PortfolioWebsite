@@ -19,17 +19,24 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
 
 import ecell from "./company/ecell.png";
 import antariksh from "./company/antariksh.png";
 import unicode from "./company/unicode.png";
 import synapse from "./company/synapse.png";
 
+
 import summarizerAI from "./SummarizerAI.jpeg"
 import healthi from "./healthi.png";
 import behance from "./behance.png";
 import gericht from "./Gericht.jpg";
+import Fraud_detection from "./fraud_detection_project_cover.png"
+import Network from "./network_link_prediction.png";
+import Sociablast from "./sociablast.png";
+import asknova from "./asknova.png";
+import externalLink from "./external-link.svg";
+import Rpipd from "./ResearchPaperIPD.png";
 
 export {
   logo,
@@ -60,5 +67,18 @@ export {
   healthi,
   behance,
   summarizerAI,
-  gericht
+  gericht,
+  Fraud_detection,
+  Network,
+  Sociablast,
+  asknova,
+  externalLink,
+  Rpipd,
 };
+
+// src/assets/index.js
+export { default as CUBLogo } from "./company/CUBLogo.png";
+export { default as EBLogo } from "./company/EB-Logo-Skyblue-03.png";
+export { default as HUELogo } from "./company/HorizontalLogo.svg";
+export { default as TAMLogo } from "./company/TAM-MaroonBox.png";
+
